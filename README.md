@@ -1,2 +1,3 @@
-# postdoc-accord
-Gathering all the information about the community feedback on the High Energy Physics Postdoc Acceptance Deadline
+# Postdoc Deadline 
+
+The High Energy community has adopted an accord, which can be found here, that states that the earliest deadline for postdoc acceptance is January 7. This accord has dramatically changed the field giving applicants a chance to see all their options and make the best decisions for themselves and their families deciding their next position. However, we found that the date itself might be a little less ideal, due to conflicts with the holiday season in quite a few countries. From there, we wanted to check with the community and see whether they thought another date would be ideal. The results of the survey are published on arXiv here. 
