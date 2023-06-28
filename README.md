@@ -1,6 +1,4 @@
-# Postdoc Deadline 
-
-## Introduction: 
+# Introduction: 
 
 The High Energy community has adopted an accord, which can be found [here](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html), that states that the earliest deadline for postdoc acceptance is January 7. This accord has dramatically changed the field giving applicants a chance to see all their options and make the best decisions for themselves and their families deciding their next position. However, we found that the date itself might be a little less ideal, due to conflicts with the holiday season in quite a few countries, as well as the Astronomy deadline on February 15 and the growing number of people appling to jobs in HEP and Astro. From there, we wanted to check with the community and see whether they thought another date would be ideal. The results of the survey are published on arXiv here. 
 
@@ -10,15 +8,15 @@ The High Energy community has adopted an accord, which can be found [here](http:
 
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
-## Finalized Accord:
+# Finalized Accord:
 
 The finalized accord will be linked here when ready. **Institutions** will sign on the accord by adding a name of a representative. 
 
-## Results:
+# Results:
 
 The detailed results can be found in the arXiv here. However, we summarize the results as of June 2023 (which we will update if results change dramatically). 
 
-## Frequently Asked Questions:
+# Frequently Asked Questions:
 
 A few issues have come up from feedback of the original survey. We try to address these below and update them as we go. The results as of June 2023 are included in the arXiv. 
 
@@ -31,16 +29,16 @@ A few issues have come up from feedback of the original survey. We try to addres
       Similarly, the mathematics community reached a similar agreemend with. adeadline of Feb 6, which can be found [here](https://www.ams.org/profession/employment-services/deadline-coordination/deadline-coordination).
       It is important to be cognizant of how a later response deadline can affect applicants who need to apply for visas, prepare for a long-distance move, arrange child-care, and/or coordinate dual careers.  As the Feb 15 deadline has been adhered to by the astronomy community for several decades, presumably visa/moving issues have not posed a significant impediment to newly-appointed postdocs in that field (barring extenuating circumstances).  This survey does not consider any deadlines that extend past Feb 15.
 
-  3.How can we avoid having a deadline that falls on a weekend, which encounters similar administrative challenges as one that falls during the holiday period?
-     One option is to frame the deadline as the “the Xth Wednesday in January/February.”  Wednesday is a convenient choice as it maximizes the number of weekdays before/after the deadline for coordinating new offers.
+  3. How can we avoid having a deadline that falls on a weekend, which encounters similar administrative challenges as one that falls during the holiday period?
+One option is to frame the deadline as the “the Xth Wednesday in January/February.”  Wednesday is a convenient choice as it maximizes the number of weekdays before/after the deadline for coordinating new offers.
 
-   4. Would a later deadline mean that applicants hold onto offers for longer?
+  4. Would a later deadline mean that applicants hold onto offers for longer?
       It is not clear that this will necessarily be the case, as a later response deadline may mean that individual institutions decide to make their offers later as well. The data from the rumor mill (kindly provided by Felix Yu), averaged over the last 6 years, indicates that candidates who currently receive an offer before Jan 7 on average accept within 12 days of receiving their preferred offer. In general, applicants should be aware that the “best practice” is to not hold onto multiple offers longer than is needed to make their decision.
 
-  5. Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?
+   5. Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?
      Data from the postdoc rumor mill sheds some light on this question.  Over the last six hiring seasons, 90% of all offers in a given year were accepted within two weeks of the Jan 7 deadline, and 95% within three weeks.  There are two important caveats to keep in mind when interpreting this data.  First, there may be a delay between when an applicant accepts an offer and when they post it to the rumor mill (although this just makes the conclusions conservative).  Second, applicants who receive offers more than one week beyond the Jan 7 deadline may be less likely to report it to the rumor mill.
 
-   6.What are the timelines for the multidisciplinary postdoctoral fellowships?
+  6.What are the timelines for the multidisciplinary postdoctoral fellowships?
 
 **Berkeley Miller Fellowship**: Acceptance deadline is typically the third week of January
 
@@ -56,8 +54,7 @@ A few issues have come up from feedback of the original survey. We try to addres
 
 **UC Presidential and Chancellor Fellowships**: Offers made at the end of February
 
-## Community Members Agreeing to a change in the Deadline: 
-
+# Community Members Agreeing to a change in the Deadline: 
 
 Abigail Vieregg (University of Chicago)
 
