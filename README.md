@@ -39,7 +39,7 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
      Data from the postdoc rumor mill sheds some light on this question.  Over the last six hiring seasons, 90% of all offers in a given year were accepted within two weeks of the Jan 7 deadline, and 95% within three weeks.  There are two important caveats to keep in mind when interpreting this data.  First, there may be a delay between when an applicant accepts an offer and when they post it to the rumor mill (although this just makes the conclusions conservative).  Second, applicants who receive offers more than one week beyond the Jan 7 deadline may be less likely to report it to the rumor mill.
 
   6. **What about CERN which generally has its offers quite early?**
-      The follwong statement was offered by GIan Giudice on behalf of CERN.
+      The following statement was offered by GIan Giudice on behalf of CERN.
 > CERN has an early application deadline for theory postdocs because the selection process requires a first stage done at the individual national level. For this reason, CERN has been making postdoc offers as early as November. However, CERN has always respected the January 7th response deadline, and intends to respect any new deadline that will be agreed upon by the physics community. CERN welcomes the proposal to shift the January 7th deadline to a later date. In order to adapt better to such changes, CERN is considering to move its current application deadline to a later date, closer to those of other institutions.
 
   7. **What are the timelines for the multidisciplinary postdoctoral fellowships?**
