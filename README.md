@@ -952,15 +952,4 @@ Zohar Komargodski (Simons Center for Geometry and Physics)
 
 Zvi Bern (UCLA)
 
-	
-	
-	
-	
-	
-
-![image](https://github.com/linoush/postdoc-accord/assets/13158219/5e91993a-b5c5-444f-9546-234bcf6bfe18)
-
-
-
-![image](https://github.com/linoush/postdoc-accord/assets/13158219/0e9786cf-6ab6-497e-b9f4-3fbfb68a6e61)
 
