@@ -619,7 +619,7 @@ Michael Wagman (Fermilab)
 
 Michal Czakon (RWTH Aachen University)
 
-Mikhail (MIT)
+Mikhail Ivanov (MIT)
 
 Mohamed Anber (Durham University)
 
@@ -775,13 +775,14 @@ Samuel Wong (Stanford University)
 
 Sandip Roy (Princeton University)
 
-Saso (U. of Edinburgh and U. of Ljubljana)
+Saso Grozdanov (U. of Edinburgh and U. of Ljubljana)
 
 Saurabh Vasant Kadam (University of Maryland, College Park)
 
 Scott Melville (University of Cambridge)
 
 Scott Watson (Syracuse University)
+
 Sebastian Baum (Stanford University)
 
 Seodong Shin (Jeonbuk National University)
@@ -898,7 +899,7 @@ Vladimir Kazakov (Ecole Normale Superieure, Paris)
 
 Wayne Weng (UCSB)
 
-Weiyao (Los Alamos National Laboratory)
+Weiyao Ke (Los Alamos National Laboratory)
 
 Wenzer Qin (MIT)
 
@@ -944,7 +945,7 @@ Zackaria Chacko (University of Maryland, College Park)
 
 Zhen Liu (University of Minnesota)
 
-Zhong (UCL)
+Zhong Zhang (UCL)
 
 Zohar Komargodski (Simons Center for Geometry and Physics)
 
