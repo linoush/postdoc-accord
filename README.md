@@ -55,6 +55,7 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
 **UC Presidential and Chancellor Fellowships**: Offers made at the end of February
 
 # Community Members Agreeing to a change in the Deadline: 
+## The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
 
 Abigail Vieregg (University of Chicago)
 
