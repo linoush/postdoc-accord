@@ -38,7 +38,7 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
    5. Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?
      Data from the postdoc rumor mill sheds some light on this question.  Over the last six hiring seasons, 90% of all offers in a given year were accepted within two weeks of the Jan 7 deadline, and 95% within three weeks.  There are two important caveats to keep in mind when interpreting this data.  First, there may be a delay between when an applicant accepts an offer and when they post it to the rumor mill (although this just makes the conclusions conservative).  Second, applicants who receive offers more than one week beyond the Jan 7 deadline may be less likely to report it to the rumor mill.
 
-  6.What are the timelines for the multidisciplinary postdoctoral fellowships?
+  6. What are the timelines for the multidisciplinary postdoctoral fellowships?
 
 **Berkeley Miller Fellowship**: Acceptance deadline is typically the third week of January
 
