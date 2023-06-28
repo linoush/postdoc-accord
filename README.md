@@ -58,46 +58,46 @@ A few issues have come up from feedback of the original survey. We try to addres
 
 ## Community Members Agreeing to a change in the Deadline: 
 
-Name	Institution
-Abigail Vieregg	University of Chicago
-Aditya Parikh	Stony Brook University
-Adrian Thompson	Texas A&M University 
-Adrien Kuntz	Scuola Normale Superiore, Pisa
-Aida El-Khadra	University of Illinois Urbana-Champaign
-Akhil Premkumar	University of Chicago
-Albert Stebbins	Fermilab
-Albion Lawrence	Brandeis University
-Alexander Kusenko	UCLA
-Ameek Malhotra	UNSW Sydney
-Amol Patwardhan	SLAC
-Ana Raclariu	University of Amsterdam
-Anastasia Sokolenko	UChicago/Fermilab
-Anastasia Volovich	Brown University
-Andre de Gouvea	Northwestern University
-Andrea Caputo	CERN
-Andrea Gurgone	University of Pavia
-Andrea Thamm	The University of Melbourne
-Andreas Mantziris	University of Warsaw
-Andreas Stergiou	King’s College London
-Andreas Weiler	TU Munich
-Andrew Eberhardt	Stanford 
-Andrew Long	Rice University
-Andrew Pace	Carnegie Mellon University
-Andriot David	LAPTh, CNRS
-Angelo Esposito	Sapienza University
-Ani Prabhu	Princeton University
-Anne Green	University of Nottingham, UK
-Anne-Katherine Burns	UC Irvine
-Annika Peter	Ohio State
-Anson Hook	UMD
-Antoine Bourget	CEA Saclay
-Antoine Van Proeyen	KU Leuven
-Antonio Delgado	University of Notre Dame
-Antonio Smecca	University of Turin
-Anupam Ray	UC Berkeley
-Asher Berlin	Fermilab
-Attilio Cucchieri	University of São Paulo
-Atul Sharma	Harvard
+
+Abigail Vieregg (University of Chicago)
+Aditya Parikh (Stony Brook University)
+Adrian Thompson (Texas A&M University)
+Adrien Kuntz (Scuola Normale Superiore, Pisa)
+Aida El-Khadra (University of Illinois Urbana-Champaign)
+Akhil Premkumar (University of Chicago)
+Albert Stebbins (Fermilab)
+Albion Lawrence (Brandeis University)
+Alexander Kusenko (UCLA)
+Ameek Malhotra (UNSW Sydney)
+Amol Patwardhan (SLAC)
+Ana Raclariu (University of Amsterdam)
+Anastasia Sokolenko (UChicago/Fermilab)
+Anastasia Volovich (Brown University)
+Andre de Gouvea (Northwestern University)
+Andrea Caputo (CERN)
+Andrea Gurgone (University of Pavia)
+Andrea Thamm (The University of Melbourne)
+Andreas Mantziris (University of Warsaw)
+Andreas Stergiou (King’s College London)
+Andreas Weiler (TU Munich)
+Andrew Eberhardt (Stanford)
+Andrew Long (Rice University)
+Andrew Pace (Carnegie Mellon University)
+Andriot David (LAPTh, CNRS)
+Angelo Esposito (Sapienza University)
+Ani Prabhu (Princeton University)
+Anne Green (University of Nottingham, UK)
+Anne-Katherine Burns (UC Irvine)
+Annika Peter (Ohio State)
+Anson Hook (UMD)
+Antoine Bourget (CEA Saclay)
+Antoine Van Proeyen (KU Leuven)
+Antonio Delgado (University of Notre Dame)
+Antonio Smecca (University of Turin)
+Anupam Ray (UC Berkeley)
+Asher Berlin (Fermilab)
+Attilio Cucchieri (University of São Paulo)
+Atul Sharma (Harvard)
 Austin Joyce	University of Chicago
 Avelino Vicente	IFIC
 Baha Balantekin	University of Wisconsin, Madison
@@ -461,8 +461,8 @@ Tim Tait	UC Irvine
 Tobias Huber	Siegen U
 Toby Opferkuch	UC Berkeley
 Todd Thompson	Ohio State University
-tom banks	NHETC/Physics and Astronomy Rutgers University
-tom degrand	u. of colorado
+Tom Banks	NHETC/Physics and Astronomy Rutgers University
+Tom Degrand	u. of colorado
 Tom Melia	Kavli IPMU
 Tom Rizzo	SLAC
 Tom Tong	University of Siegen
@@ -480,7 +480,7 @@ Vittorio Lubicz	Università Roma Tre
 Vladimir Kazakov	Ecole Normale Superieure, Paris
 Wayne Weng	UCSB
 Weiyao	Los Alamos National Laboratory
-Wenzer	MIT
+Wenzer Qin	MIT
 Wick Haxton	UC Berkeley
 William DeRocco	UC Santa Cruz
 Wolfgang Altmannshofer	UC Santa Cruz
